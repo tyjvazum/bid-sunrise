@@ -1,0 +1,9 @@
+[package]
+name = "bid-sunrise"
+description = "a command-line tool to take top10milliondomains.csv and create 10k-reserved-domains.csv"
+version = "0.1.0"
+license = "GPL-3.0-only"
+edition = "2021"
+
+[dependencies]
+csv = "1.2.0"
